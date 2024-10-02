@@ -30,7 +30,7 @@ const About = () => {
               <p className="grid-headtext">Hi, I’m Rainer Nsa</p>
               <p className="grid-subtext">
                 With 8 years of experience, I have honed my skills in both
-                frontend and backend dev, creating dynamic and responsive
+                frontend and backend development, creating dynamic and responsive
                 websites.
               </p>
             </div>
