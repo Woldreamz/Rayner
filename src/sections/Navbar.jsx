@@ -28,7 +28,7 @@ const Navbar = () => {
               href="/"
               className="text-neutral-400 font-bold text-xl hover:text-white transition-colors"
           >
-            <img src="assets/Rainer.png" width={60} height={60} alt="Rainer"/>
+            <img src="assets/Rainer.png" width={45} height={45} alt="Rainer"/>
           </a>
 
           <button
